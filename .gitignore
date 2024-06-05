@@ -1,0 +1,12 @@
+logs/
+.ipynb_checkpoints/
+results/
+venv/
+.env
+
+
+model.safetensors
+merges.txt
+special_tokens_map.json
+tokenizer_config.json
+vocab.json
